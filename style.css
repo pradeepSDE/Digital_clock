@@ -1,0 +1,13 @@
+div{
+    margin: 200px 30px 200px 300px;
+}
+
+table{
+    
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    display: inline;
+    padding: 3PX;
+    border: 3px solid black;
+}
